@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="python.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   width="1000"
+   height="1000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.38186529"
+     inkscape:cx="548.62279"
+     inkscape:cy="464.82361"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     showgrid="false" />
+  <linearGradient
+     id="python-original-a"
+     gradientUnits="userSpaceOnUse"
+     x1="70.251999"
+     y1="1237.476"
+     x2="170.659"
+     y2="1151.089"
+     gradientTransform="matrix(4.2510663,0,0,-4.28882,-202.52488,5376.8402)">
+    <stop
+       offset="0"
+       stop-color="#5A9FD4"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-color="#306998"
+       id="stop2" />
+  </linearGradient>
+  <linearGradient
+     id="python-original-b"
+     gradientUnits="userSpaceOnUse"
+     x1="209.474"
+     y1="1098.811"
+     x2="173.62"
+     y2="1149.537"
+     gradientTransform="matrix(4.2510663,0,0,-4.28882,-202.52488,5376.8402)">
+    <stop
+       offset="0"
+       stop-color="#FFD43B"
+       id="stop3" />
+    <stop
+       offset="1"
+       stop-color="#FFE873"
+       id="stop4" />
+  </linearGradient>
+  <path
+     fill="url(#python-original-a)"
+     d="M 496.71888,47.309268 C 464.83967,47.460283 434.4102,50.170999 407.62017,54.912862 328.71494,68.85153 314.39873,98.02758 314.39873,151.8417 V 222.9017 H 500.84914 V 246.58837 H 244.41849 C 190.23439,246.58837 142.78554,279.15471 127.94079,341.13119 110.81571,412.14589 110.06063,456.46873 127.94079,530.62454 141.19234,585.82799 172.84504,625.15224 227.03669,625.15224 H 291.15001 V 539.96481 C 291.15001,478.41873 344.39028,424.13646 407.62771,424.13646 H 593.86669 C 645.71008,424.13646 687.08814,381.44458 687.08814,329.38978 V 151.84926 C 687.08814,101.31216 644.45664,63.35459 593.86669,54.920415 561.82136,49.589592 528.59057,47.165805 496.71888,47.309268 Z M 395.88631,104.46081 C 415.1407,104.46081 430.87645,120.44573 430.87645,140.10785 430.87645,159.68693 415.14825,175.52082 395.88631,175.52082 376.55641,175.52082 360.90374,159.68693 360.90374,140.10785 360.89619,120.44573 376.55641,104.46081 395.88631,104.46081 Z"
+     id="path4"
+     style="fill:url(#python-original-a);stroke-width:7.55076" />
+  <path
+     fill="url(#python-original-b)"
+     d="M 710.33685,246.58837 V 329.38978 C 710.33685,393.57107 655.91112,447.59661 593.85915,447.59661 H 407.62017 C 356.60737,447.59661 314.39873,491.26253 314.39873,542.35083 V 719.90647 C 314.39873,770.42843 358.32894,800.15574 407.62017,814.64561 466.63675,831.98963 523.23707,835.13073 593.85915,814.64561 640.79455,801.04671 687.08058,773.69791 687.08058,719.90647 V 648.83891 H 500.84914 V 625.1447 H 780.31713 C 834.50122,625.1447 854.70696,587.35324 873.55362,530.61699 893.01947,472.21202 892.18129,416.04208 873.55362,341.12364 860.1586,287.17361 834.58427,246.58083 780.31713,246.58083 H 710.33685 Z M 605.58545,696.21225 C 624.9229,696.21225 640.57557,712.04616 640.57557,731.64033 640.57557,751.28729 624.91535,767.27225 605.58545,767.27225 586.33106,767.27225 570.60287,751.28729 570.60287,731.64033 570.60287,712.04616 586.33106,696.21225 605.58545,696.21225 Z"
+     id="path5"
+     style="fill:url(#python-original-b);stroke-width:7.55076" />
+  <radialGradient
+     id="python-original-c"
+     cx="1825.678"
+     cy="444.45001"
+     r="26.743"
+     gradientTransform="matrix(0,-1.8121774,-7.9660298,0,4042.4556,4164.9389)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#B8B8B8"
+       stop-opacity=".498"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#7F7F7F"
+       stop-opacity="0"
+       id="stop6" />
+  </radialGradient>
+  <path
+     opacity="0.444"
+     fill="url(#python-original-c)"
+     d="M 752.82487,857.8736 C 752.82487,884.62585 640.95311,906.31913 502.96336,906.31913 364.96604,906.31913 253.09429,884.62585 253.09429,857.8736 253.09429,831.11376 364.95849,809.42048 502.96336,809.42048 640.95311,809.42048 752.82487,831.10621 752.82487,857.8736 Z"
+     id="path6"
+     style="fill:url(#python-original-c);stroke-width:7.55076" />
+</svg>
