@@ -1,0 +1,34 @@
+:root {
+    --color-font: #212529;
+    --color-blue-python: #4989BB;
+    --color-yelow-python: #F6BA08;
+    --color-background-home: rgb(48, 47, 47);
+    --height-page: 100vh;
+}
+html body {
+    height: var(--height-page);
+    background-color: var(--color-background-home);
+}
+/* base */
+#kaggle-svg {
+    width: 25px;
+    height: 25px;
+}
+.photo {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+#python {
+    color: var(--color-blue-python);
+}
+.align-menu {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+#portfolio {
+    color: var(--color-yelow-python);
+}
+/* base-fim */
