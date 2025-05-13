@@ -1,4 +1,4 @@
-% include('base/base.tpl', title='Portfólio')
+% include('base.tpl', title='Portfólio')
 
 <div class="container-fluid overflow-hidden">
     <section class="section-2">

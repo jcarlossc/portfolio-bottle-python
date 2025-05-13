@@ -14,5 +14,9 @@ def index():
 def projects():
     return template('projects')
 
+@app.route('/cg')
+def cg():
+    return template('cg')
+
 if __name__ == "__main__":
     app.run(host = 'localhost', port = 8000, debug = True, reloader=True) 

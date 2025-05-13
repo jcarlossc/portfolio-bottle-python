@@ -22,7 +22,7 @@
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0" id="teste">
                             <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
                             <li class="nav-item"><a class="nav-link" href="/projects">Projetos</a></li>
-                            <li class="nav-item"><a class="nav-link" href="cg.html">Computação Gráfica</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/cg">Computação Gráfica</a></li>
                             <li class="nav-item"><a class="nav-link" href="ht.html">Habilidades Técnicas</a></li>
                             <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre</a></li>
                         </ul>
