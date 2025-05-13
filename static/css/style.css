@@ -31,12 +31,9 @@ html body {
 #portfolio {
     color: var(--color-yelow-python);
 }
-/* base-fim */
+/* base-end */
 
 /* index */
-#color-link-index {
-    color: var(--color-yelow-python);
-}
 #text-title-home {
     font-size: 2rem;
     margin-top: 50px;
@@ -59,8 +56,27 @@ html body {
 #image-python-home {
     margin: auto;
 }
-/* index-fim */
+/* index-end */
 
+/* projects */
+#text-title-projects {
+    font-size: 3rem;
+    margin-top: 50px;
+}
+#text-phrase-projects {
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+#list-projects {
+    margin-top: 70px;
+}
+#list-color {
+    background-color: var(--color-background-home);
+}
+#color-bnt {
+    background-color: var(--color-yelow-python);
+}
+/* projects-end */
 
 
 @media (max-width: 920px) {
@@ -78,6 +94,20 @@ html body {
     #image-home {
         width: 100%;
     }
-    /* index-fim */
+    /* index-end */
+
+    /* projects */
+    #list-projects {
+        margin-top: 0px;
+    }
+    #text-title-projects {
+        text-align: center;
+    }
+    #text-phrase-projects {
+        text-align: center;
+    }
+    /* projects-end */
+
+    
 
 }
