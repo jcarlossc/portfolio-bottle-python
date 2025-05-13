@@ -18,5 +18,9 @@ def projects():
 def cg():
     return template('cg')
 
+@app.route('/ht')
+def ht():
+    return template('ht')
+
 if __name__ == "__main__":
     app.run(host = 'localhost', port = 8000, debug = True, reloader=True) 
