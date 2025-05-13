@@ -92,6 +92,30 @@ html body {
 }
 /* cg-end */
 
+/* ht */
+#title-card-skills {
+    font-size: 1.4rem;
+}
+#card-top-skil {
+    margin-top: 50px;
+    background-color: var(--color-background-home);
+}   
+#card-top-skil-1 {
+    background-color: var(--color-background-home);
+}   
+#card-color-skil {
+    background-color: var(--color-background-home);
+}                    
+#color-link-skil {
+    color: var(--color-yelow-python);
+}
+#card-width-height {
+    width:80px;
+    height:40px;
+    display: inline-block;
+}
+/* ht-end */
+
 @media (max-width: 920px) {
     /* index */
     #text-title-home {
