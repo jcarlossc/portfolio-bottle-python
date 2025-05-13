@@ -31,4 +31,83 @@ html body {
 #portfolio {
     color: var(--color-yelow-python);
 }
-/* base-fim */
+/* base-end */
+
+/* index */
+#text-title-home {
+    font-size: 2rem;
+    margin-top: 50px;
+    text-align: center;
+}
+#text-work-home {
+    font-size: 1.1rem;
+    margin-top: -12px;
+    color:  var(--color-yelow-python);
+    text-align: center;
+}
+#text-phrase-home {
+    margin-top: 80px;
+    font-size: 3.2rem;
+    text-align: center;
+}
+#image-home {
+    width: 15%;
+}
+#image-python-home {
+    margin: auto;
+}
+/* index-end */
+
+/* projects */
+#text-title-projects {
+    font-size: 3rem;
+    margin-top: 50px;
+}
+#text-phrase-projects {
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+#list-projects {
+    margin-top: 70px;
+}
+#list-color {
+    background-color: var(--color-background-home);
+}
+#color-bnt {
+    background-color: var(--color-yelow-python);
+}
+/* projects-end */
+
+
+@media (max-width: 920px) {
+    /* index */
+    #text-title-home {
+        font-size: 2.5rem;
+    }
+    #text-work-home {
+        font-size: 1.5rem;
+    }
+    #text-phrase-home {
+        margin-top: 30px;
+        font-size: 3rem;
+    }     
+    #image-home {
+        width: 100%;
+    }
+    /* index-end */
+
+    /* projects */
+    #list-projects {
+        margin-top: 0px;
+    }
+    #text-title-projects {
+        text-align: center;
+    }
+    #text-phrase-projects {
+        text-align: center;
+    }
+    /* projects-end */
+
+    
+
+}

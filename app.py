@@ -10,5 +10,9 @@ def server_static(filepath):
 def index():
     return template('index')
 
+@app.route('/projects')
+def projects():
+    return template('projects')
+
 if __name__ == "__main__":
     app.run(host = 'localhost', port = 8000, debug = True, reloader=True) 
