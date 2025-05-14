@@ -22,5 +22,9 @@ def cg():
 def ht():
     return template('ht')
 
+@app.route('/about')
+def about():
+    return template('about')
+
 if __name__ == "__main__":
     app.run(host = 'localhost', port = 8000, debug = True, reloader=True) 
