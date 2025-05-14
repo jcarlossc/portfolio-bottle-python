@@ -10,6 +10,10 @@ html body {
     background-color: var(--color-background-home);
 }
 /* base */
+#twitter-png {
+    width: 50px;
+    margin-left: -10px;
+}
 #kaggle-svg {
     width: 25px;
     height: 25px;
@@ -115,6 +119,23 @@ html body {
     display: inline-block;
 }
 /* ht-end */
+
+/* About */
+#photo-carlos {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.img-center {
+    margin-top: 50px;
+    text-align: center;
+}
+#text-phrase-about {
+    margin-top: 30px;
+    font-size: 1.4rem;
+}
+
+/* About-end */
 
 @media (max-width: 920px) {
     /* index */

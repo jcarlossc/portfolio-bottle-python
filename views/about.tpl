@@ -1,32 +1,13 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
-        <title>Portfólio</title>
-        <link rel="stylesheet" href="/static/css/style.css">
-        <script src="/static/bootstrap/bootstrap.min.js"></script> 
-        <link rel="stylesheet" href="/static/bootstrap/bootstrap.min.css">
-    </head>
-    <body>
-        <header>
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-                <div class="container-fluid">
-                    <img src="/static/img/carlos.png" alt="Foto-Carlos" class="photo">
-                    <a class="navbar-brand" href="/" id="portfolio">Portfólio <code id="python">Python</code></a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuNavbar">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="menuNavbar">
-                        <ul class="navbar-nav me-auto mb-2 mb-lg-0" id="teste">
-                            <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
-                            <li class="nav-item"><a class="nav-link" href="/projects">Projetos</a></li>
-                            <li class="nav-item"><a class="nav-link" href="/cg">Computação Gráfica</a></li>
-                            <li class="nav-item"><a class="nav-link" href="/ht">Habilidades Técnicas</a></li>
-                            <li class="nav-item"><a class="nav-link" href="/about">Sobre</a></li>
-                        </ul>
-                        <ul class="text-center">
+% include('base.tpl', title='Portfólio')
+
+<div class="container-fluid overflow-hidden">
+    <section class="section-5">
+        <div class="row">
+            <div class="col-lg-12 text-light pt-5">
+                <div class="img-center">
+                    <img src="/static/img/carlos.png" id="photo-carlos" alt="Foto-Carlos">
+                </div>
+                <ul class="text-center">
                             <li class="align-menu">
                                 <abbr title="Kaggle"><a href="https://www.kaggle.com/jcarlossc" id="link-7" target="_blank" alt="link-kaggle">
                                     <img src="/static/img/kaggle.svg" id="kaggle-svg" alt="Kaggle">
@@ -55,14 +36,31 @@
                             </li>
                             <li class="align-menu">
                                 <abbr title="TwitterX"><a href="https://x.com/jcarlossc1977" id="link-7" target="_blank" alt="link-Twitter">
-                                    <img src="/static/img/twitter.png" id="twitter-png" alt="Twitter">
+                                    <img src="/static/img/twitter.png" id="twitter-png" alt="Imagem-Twitter">
                                 </a></abbr>
                             </li>
                         </ul>
-                    </div>
-                </div>
-            </nav>
-        </header>
-        <main>
-
-        </main>
+                <p class="display-5" id="text-phrase-about">
+                    Olá! Meu nome é Carlos da Costa e sou um entusiasta da tecnologia, 
+                    com foco em programação Python. Embora eu ainda não tenha 
+                    experiência profissional, dedico-me diariamente a aprender, 
+                    construir projetos e explorar novas possibilidades dentro da área de 
+                    desenvolvimento.
+                </p>
+                <p class="display-5" id="text-phrase-about">
+                    Tenho uma grande paixão por programação web, criando aplicações 
+                    modernas e funcionais com frameworks como Flask e Bottle. Além 
+                    disso, sou fascinado por prototipação eletrônica, onde aplico 
+                    Python para dar vida a projetos com Arduino, ESP32 e outros 
+                    dispositivos. Também me interesso profundamente por computação gráfica, 
+                    explorando desde a criação de gráficos até o desenvolvimento de 
+                    interfaces visuais e experiências digitais interativas.
+                </p>
+                <p class="display-5" id="text-phrase-about">
+                    Estou animado para continuar crescendo e contribuir com soluções 
+                    inovadoras onde quer que a tecnologia possa fazer a diferença.
+                </p>
+            </div>
+        </div>
+    </section>
+</div>

@@ -16,15 +16,15 @@
             </div>
             <div class="col-lg-8 text-light pt-5">
                 <ul class="list-group" id="list-projects">
-                    <li class="list-group-item text-light border-light" id="list-color">Portfólio Bottle<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">A second item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">A fourth item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">And a fifth one<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">An item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">A second item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color">A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> Portfólio Bottle<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> A second item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> A fourth item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> And a fifth one<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> An item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> A second item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
                 </ul>
             </div>
         </div>
