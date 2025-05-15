@@ -80,6 +80,10 @@ html body {
 #color-bnt {
     background-color: var(--color-yelow-python);
 }
+#image-python-projects {
+    width: 25px;
+    margin-left: -10px;
+}
 /* projects-end */
 
 /* cg */
@@ -137,6 +141,39 @@ html body {
 
 /* About-end */
 
+/* project1 */
+#title-project1 {
+    font-size: 3rem;
+}
+#text-phrase-project1 {
+    font-size: 1.3rem;
+    margin-top: 60px;
+}
+#margin-image-project1 {
+    margin-top: 20px;
+}
+#subtitle-project1 {
+    font-size: 1.5rem;
+}
+#text-list-project1 {
+    font-size: 1.2rem;
+    margin-top: 0px;
+}
+#text-phrase-project1-object {
+    margin-top: 0px;
+    font-size: 1.3rem;
+}
+#text-epository {
+    margin-top: -15px;
+}
+#color-link-github {
+    color: var(--color-yelow-python);
+}
+#color-bnt-project1 {
+    background-color: var(--color-yelow-python);
+}
+/* project1-end */
+
 @media (max-width: 920px) {
     /* index */
     #text-title-home {
@@ -174,5 +211,21 @@ html body {
         margin-top: 0px;
     }
     /* cg-end */    
+
+    /* project1 */
+    #margin-image-project1 {
+        margin-top: -20px;
+    }
+    #title-project1 {
+        margin-top: -40px;
+    }
+    #text-phrase-project1 {
+        margin-top: -40px;
+    }
+    #color-bnt-project1 {
+        margin-top: 50px; 
+        margin-bottom: 20px;
+    }
+    /* project1-fim */
 
 }
