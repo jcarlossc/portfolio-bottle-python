@@ -41,7 +41,7 @@
                         web com Bottle antes de usar soluções mais 
                         robustas como Flask ou Django.
                     </p>
-                    <h3 class="display-5" id="subtitle-project1">Link para o repositório: <a href="https://github.com/jcarlossc/portfolio-bottle-python" id="color-link-github" target="_blank">github.com/jcarlossc/portfolio-bottle-python</a><a href="/project2" class="btn btn-sm float-end" id="color-bnt-project1">Próximo Projeto</a></h3>        
+                    <h3 class="display-5" id="subtitle-project1">Link para o repositório: <a href="https://github.com/jcarlossc/portfolio-bottle-python" id="color-link-github" target="_blank">github.com/jcarlossc/portfolio-bottle-python</a><a href="/project2" class="btn btn-sm float-end" id="color-bnt-project2">Próximo Projeto</a></h3>        
                 </div>
             </div>
         </div>
