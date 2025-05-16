@@ -16,15 +16,15 @@
             </div>
             <div class="col-lg-8 text-light pt-5">
                 <ul class="list-group" id="list-projects">
-                    <li class="list-group-item text-light border-light" id="list-color"> Portfólio Bottle<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> A second item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> A fourth item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> And a fifth one<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> An item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> A second item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
-                    <li class="list-group-item text-light border-light" id="list-color"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> Portfólio Bottle<a href="/project1" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> Estrutura de Dados Básica<a href="/project2" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> A fourth item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> And a fifth one<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> An item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> A second item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
+                    <li class="list-group-item text-light border-light" id="list-color"><img src="/static/img/python.svg" id="image-python-projects" alt="Imagem-Python"> A third item<a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a></li>
                 </ul>
             </div>
         </div>

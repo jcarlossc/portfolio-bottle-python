@@ -14,6 +14,14 @@ def index():
 def projects():
     return template('projects')
 
+@app.route('/project1')
+def project1():
+    return template('project1')
+
+@app.route('/project2')
+def project2():
+    return template('project2')
+
 @app.route('/cg')
 def cg():
     return template('cg')
