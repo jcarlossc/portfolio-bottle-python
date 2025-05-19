@@ -27,7 +27,6 @@
                     <ul class="display-5" id="text-list-project1">
                         <li>Criação de rotas dinâmicas com parâmetros na URL</li>
                         <li>Integração com templates HTML usando o mecanismo de views do Bottle</li>
-                        <li>Estrutura modular e fácil de manter</li>
                     </ul>
                     <h3 class="display-5" id="subtitle-project1">Tecnologias utilizadas:</h3>
                     <ul class="display-5" id="text-list-project1">
@@ -41,7 +40,8 @@
                         web com Bottle antes de usar soluções mais 
                         robustas como Flask ou Django.
                     </p>
-                    <h3 class="display-5" id="subtitle-project1">Link para o repositório: <a href="https://github.com/jcarlossc/portfolio-bottle-python" id="color-link-github" target="_blank">github.com/jcarlossc/portfolio-bottle-python</a><a href="/project2" class="btn btn-sm float-end" id="color-bnt-project2">Próximo Projeto</a></h3>        
+                    <p class="display-5" id="subtitle-project1-github">Link para o repositório: <a href="https://github.com/jcarlossc/portfolio-bottle-python" id="color-link-github" target="_blank">github.com/jcarlossc/portfolio-bottle-python</a></p>        
+                    <a href="/project9" class="btn btn-sm float-start" id="color-bnt-project1">Projeto Anterior</a><a href="/project2" class="btn btn-sm float-end" id="color-bnt-project1">Próximo Projeto</a>
                 </div>
             </div>
         </div>

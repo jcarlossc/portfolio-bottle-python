@@ -37,11 +37,11 @@
                     <h3 class="display-5" id="subtitle-project1">Objetivos do projeto:</h3>
                     <p class="display-5" id="text-phrase-project1-object"> 
                         Demonstrar domínio das estruturas de dados clássicas, 
-                        com foco em algoritmos, eficiência computacional e clareza 
-                        de código — preparando a base para aplicações mais avançadas 
+                        preparando a base para aplicações mais avançadas 
                         em ciência de dados, web e desenvolvimento de sistemas.
                     </p>
-                    <h3 class="display-5" id="subtitle-project1">Link para o repositório: <a href="https://github.com/jcarlossc/data-structure-python" id="color-link-github" target="_blank">github.com/jcarlossc/data-structure-python</a><a href="/project2" class="btn btn-sm float-end" id="color-bnt-project1">Próximo Projeto</a></h3>    
+                    <p class="display-5" id="subtitle-project1-github">Link para o repositório: <a href="https://github.com/jcarlossc/data-structure-python" id="color-link-github" target="_blank">github.com/jcarlossc/data-structure-python</a></p>    
+                    <a href="/project1" class="btn btn-sm float-start" id="color-bnt-project1">Projeto Anterior</a><a href="/project3" class="btn btn-sm float-end" id="color-bnt-project1">Próximo Projeto</a>
                 </div>
             </div>
         </div>

@@ -172,6 +172,9 @@ html body {
 #color-bnt-project1 {
     background-color: var(--color-yelow-python);
 }
+#subtitle-project1-github {
+    font-size: 1.1rem;
+}
 /* project1-end */
 
 @media (max-width: 920px) {
