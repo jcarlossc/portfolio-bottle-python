@@ -26,6 +26,10 @@ def project2():
 def project3():
     return template('project3')
 
+@app.route('/project4')
+def project4():
+    return template('project4')
+
 @app.route('/cg')
 def cg():
     return template('cg')
