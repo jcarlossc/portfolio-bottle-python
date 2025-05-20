@@ -30,6 +30,10 @@ def project3():
 def project4():
     return template('project4')
 
+@app.route('/project5')
+def project5():
+    return template('project5')
+
 @app.route('/cg')
 def cg():
     return template('cg')
