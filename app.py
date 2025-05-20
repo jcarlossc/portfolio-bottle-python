@@ -46,6 +46,10 @@ def project7():
 def project8():
     return template('project8')
 
+@app.route('/project9')
+def project9():
+    return template('project9')
+
 @app.route('/cg')
 def cg():
     return template('cg')
