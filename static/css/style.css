@@ -125,6 +125,22 @@ html body {
 }
 /* cg3-end */
 
+/* cg4 */
+#image-svg {
+    margin: auto;
+    margin-top: 70px;
+}
+#title-cg4 {
+    font-size: 3rem;
+}
+#text-phrase-cg4 {
+    font-size: 1.3rem;
+}
+#margin-top-cg4 {
+    margin-top: 60px;
+}
+/* cg4-end */
+
 /* ht */
 #title-card-skills {
     font-size: 1.4rem;
