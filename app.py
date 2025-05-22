@@ -54,6 +54,10 @@ def project9():
 def cg():
     return template('cg')
 
+@app.route('/cg3')
+def cg3():
+    return template('cg3')
+
 @app.route('/ht')
 def ht():
     return template('ht')
