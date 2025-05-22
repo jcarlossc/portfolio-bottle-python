@@ -42,7 +42,7 @@
                 </div>
     
                 <div class="row row-cols-1 row-cols-md-3 g-4 mt-1">
-                    <a href="cg4.html" id="underline"><div class="col">
+                    <a href="/cg4" id="underline"><div class="col">
                         <div class="card h-70 border-light" id="card-cg">
                             <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
                             <div class="card-body">

@@ -58,6 +58,10 @@ def cg():
 def cg3():
     return template('cg3')
 
+@app.route('/cg4')
+def cg4():
+    return template('cg4')
+
 @app.route('/ht')
 def ht():
     return template('ht')
