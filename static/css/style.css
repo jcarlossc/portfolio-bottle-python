@@ -102,13 +102,28 @@ html body {
 #font-size-cg {
     font-size: 1.4rem;
     text-align: center;
-    
 }
 #underline {
     text-decoration: none;
     color: var(--color-white);
 }
 /* cg-end */
+
+/* cg3 */
+#image-javascript {
+    margin: auto;
+    margin-top: 70px;
+}
+#title-cg3 {
+    font-size: 3rem;
+}
+#text-phrase-cg3 {
+    font-size: 1.3rem;
+}
+#margin-top-cg3 {
+    margin-top: 60px;
+}
+/* cg3-end */
 
 /* ht */
 #title-card-skills {

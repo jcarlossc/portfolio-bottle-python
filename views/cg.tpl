@@ -31,7 +31,7 @@
                             </div>
                         </div>
                     </div></a>
-                    <a href="cg3.html" id="underline"><div class="col">
+                    <a href="/cg3" id="underline"><div class="col">
                         <div class="card h-70 border-light" id="card-cg">
                             <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
                             <div class="card-body">
