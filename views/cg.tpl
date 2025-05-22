@@ -14,43 +14,58 @@
                 </p>
             </div>
             <div class="col-lg-8 text-light">                
-                <div class="row" id="margin-cg">
-                    <div class="col-lg-4 text-light" id="margin-bottom-cg">
-                        <div class="card border-light" id="card-color">
-                            <img src="/static/img/python.svg" class="card-img-top" alt="...">
+                <div class="row row-cols-1 row-cols-md-3 g-4" id="margin-top-cg">
+                    <a href="cg1.html" id="underline"><div class="col">
+                        <div class="card h-70 border-light" id="card-cg">
+                            <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title display-5" id="font-card">Imagens Bitmap</h5>
-                                <p class="card-text"></p>
-                            </div>
-                            <div class="card-body">
-                                <a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a>
+                                <h5 class="card-title display-5 text-center" id="font-size-cg">Bitmap</h5>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 text-light" id="margin-bottom-cg">
-                        <div class="card border-light" id="card-color">
-                            <img src="/static/img/python.svg" class="card-img-top" alt="...">
+                    </div></a>
+                    <a href="cg2.html" id="underline"><div class="col">
+                        <div class="card h-70 border-light" id="card-cg">
+                            <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title display-5" id="font-card">Imagens Vetoriais</h5>
-                                <p class="card-text"></p>
-                            </div>
-                            <div class="card-body">
-                                <a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a>
-                            </div>
-                        </div>    
-                    </div>
-                    <div class="col-lg-4 text-light" id="margin-bottom-cg">
-                        <div class="card border-light" id="card-color">
-                            <img src="/static/img/python.svg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title display-5" id="font-card">Imagens 3D</h5>
-                                <p class="card-text"></p>
-                            </div>
-                            <div class="card-body">
-                                <a href="#" class="btn btn-sm float-end" id="color-bnt">Detalhes</a>
+                                <h5 class="card-title display-5 text-center" id="font-size-cg">Gif</h5>
                             </div>
                         </div>
-                    </div>
+                    </div></a>
+                    <a href="cg3.html" id="underline"><div class="col">
+                        <div class="card h-70 border-light" id="card-cg">
+                            <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title display-5 text-center" id="font-size-cg">Imagens JavaScript</h5>
+                            </div>
+                        </div>
+                    </div></a>
+                </div>
+    
+                <div class="row row-cols-1 row-cols-md-3 g-4 mt-1">
+                    <a href="cg4.html" id="underline"><div class="col">
+                        <div class="card h-70 border-light" id="card-cg">
+                            <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title display-5 text-center" id="font-size-cg">Svg</h5>
+                            </div>
+                        </div>
+                    </div></a>
+                    <a href="cg5.html" id="underline"><div class="col">
+                        <div class="card h-70 border-light" id="card-cg">
+                            <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title display-5 text-center" id="font-size-cg">Modelagem 3D</h5>
+                            </div>
+                        </div>
+                    </div></a>
+                    <a href="cg6.html" id="underline"><div class="col">
+                        <div class="card h-70 border-light" id="card-cg">
+                            <img src="/static/img/python.svg" class="card-img-top w-50" id="image-card-cg" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title display-5 text-center" id="font-size-cg">Imagem 3D</h5>
+                            </div>
+                        </div>
+                    </div></a>
                 </div>
             </div>
         </div>
