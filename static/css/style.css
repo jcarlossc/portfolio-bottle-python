@@ -161,6 +161,26 @@ html body {
 }
 /* cg5-end */
 
+/* cg6 */
+.carousel-item img {
+  width: 100%;
+  height: 27rem;
+  max-width: none;
+  max-height: none;
+  display: block;
+  margin: auto; /* Centraliza a imagem */
+}
+#title-cg6 {
+    font-size: 3rem;
+}
+#text-phrase-cg6 {
+    font-size: 1.3rem;
+}
+#margin-top-cg6 {
+    margin-top: 60px;
+}
+/* cg6-end */
+
 /* ht */
 #title-card-skills {
     font-size: 1.4rem;
