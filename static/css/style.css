@@ -1,6 +1,7 @@
 :root {
     --color-font: #212529;
     --color-blue-python: #4989BB;
+    --color-white: #e0e0e0;
     --color-yelow-python: #F6BA08;
     --color-background-home: rgb(48, 47, 47);
     --height-page: 100vh;
@@ -88,16 +89,24 @@ html body {
 /* projects-end */
 
 /* cg */
-#margin-cg {
-    margin-top: 120px;
+#margin-top-cg {
+    margin-top: 90px;
 }
-#card-color {
+#image-card-cg {
+    margin: auto;
+}
+#card-cg {
     background-color: var(--color-background-home);
     font-size: 1.5rem;
 }
-#font-card {
+#font-size-cg {
     font-size: 1.4rem;
     text-align: center;
+    
+}
+#underline {
+    text-decoration: none;
+    color: var(--color-white);
 }
 /* cg-end */
 
