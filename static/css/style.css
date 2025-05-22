@@ -141,6 +141,26 @@ html body {
 }
 /* cg4-end */
 
+/* cg5 */
+#image-3d{
+    margin: auto;
+    margin-top: 70px;
+}
+#title-cg5 {
+    font-size: 3rem;
+}
+#text-phrase-cg5 {
+    font-size: 1.3rem;
+}
+#margin-top-cg5 {
+    margin-top: 60px;
+}
+#text-cg5 {
+    color: var(--color-yelow-python);
+    font-size: 1.3rem;
+}
+/* cg5-end */
+
 /* ht */
 #title-card-skills {
     font-size: 1.4rem;
